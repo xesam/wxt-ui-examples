@@ -11,3 +11,7 @@
 ## wxt + chakra
 
 ![./screenshots/chakra.jpg](./screenshots/chakra.jpg)
+
+## wxt + mui(material) + tailwindcss4
+
+![./screenshots/mui.jpg](./screenshots/mui.png)
